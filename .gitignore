@@ -1,3 +1,7 @@
 __pycache__/
 *.png
 .claude/settings.local.json
+.claude/shot.ps1
+.claude/skills/
+品牌视觉规范
+语言规范
